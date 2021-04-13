@@ -1,5 +1,5 @@
 # Rest API Test Assignment
-[![CircleCI](https://circleci.com/gh/mrgorobec/mobiquity-test-assignment.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/mrgorobec/mobiquity-test.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 
 
@@ -50,6 +50,6 @@ py.test -v tests/ --host=prod
 and host is prod/staging environment
 
 
-## Tests connected to the CicrcleCI and could be running there:  [CicrcleCI](https://app.circleci.com/pipelines/github/mrgorobec/mobiquity-test-assignment)
+## Tests connected to the CicrcleCI and could be running there:  [CicrcleCI](https://app.circleci.com/pipelines/github/mrgorobec/mobiquity-test)
 
 
