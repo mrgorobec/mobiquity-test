@@ -1,0 +1,5 @@
+assertpy
+pytest
+requests
+jsonschema
+pytest-html
