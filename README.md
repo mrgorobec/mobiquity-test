@@ -1,5 +1,5 @@
 # Rest API Test Assignment
-[![CircleCI](https://circleci.com/gh/mrgorobec/mobiquity-test.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/mrgorobec/mobiquity-test.svg?style=svg)](https://circleci.com/gh/mrgorobec/mobiquity-test)
 
 
 
